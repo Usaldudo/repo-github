@@ -2,3 +2,4 @@ file-1.txt
 filt-1.txt line2
 line 3
 line-4
+line 5
